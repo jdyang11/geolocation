@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: geolocation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Danny Yang
+Implementation-Vendor-Id: com.microservices
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Main-Class: com.microservices.geolocation.GeoLocationApplication
+
